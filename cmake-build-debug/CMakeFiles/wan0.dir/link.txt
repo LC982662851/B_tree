@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/wan0.dir/main.c.o CMakeFiles/wan0.dir/btree.c.o -o wan0 

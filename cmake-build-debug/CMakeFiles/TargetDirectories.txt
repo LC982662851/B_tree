@@ -1,0 +1,3 @@
+/home/liangchen/CLionProjects/B_tree_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liangchen/CLionProjects/B_tree_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liangchen/CLionProjects/B_tree_c/cmake-build-debug/CMakeFiles/wan0.dir

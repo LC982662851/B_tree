@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liangchen/CLionProjects/B_tree_c/btree.c
+btree.h
+/home/liangchen/CLionProjects/B_tree_c/btree.h
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+assert.h
+-
+
+/home/liangchen/CLionProjects/B_tree_c/btree.h
+
+/home/liangchen/CLionProjects/B_tree_c/main.c
+malloc.h
+-
+btree.h
+/home/liangchen/CLionProjects/B_tree_c/btree.h
+
